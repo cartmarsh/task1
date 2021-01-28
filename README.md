@@ -8,3 +8,4 @@ Zeit:
 - 45min Research Design, Überlegungen
 - 1,5h Implementierung Routes, Components
 - 45min CSS styling
+- Gesamt: 3h
