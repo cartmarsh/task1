@@ -6,6 +6,6 @@ Task 1:
 
 Zeit:
 - 30min Research Design, Überlegungen
-- 1h Implementierung Routes, Components
+- 30min Implementierung Routes, Components
 - 30min CSS styling
-- Gesamt: 2h
+- Gesamt: 1,5h
