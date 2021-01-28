@@ -5,7 +5,7 @@ Task 1:
 - Der Header sollte einfach zu setzen sein, ich hab erst später nochmal über diese Anweisung gelesen und die Eigenschaft in Task 4 implementiert.
 
 Zeit:
-- 45min Research Design, Überlegungen
-- 1,5h Implementierung Routes, Components
-- 45min CSS styling
+- 30min Research Design, Überlegungen
+- 1h Implementierung Routes, Components
+- 30min CSS styling
 - Gesamt: 3h
